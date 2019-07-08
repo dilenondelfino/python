@@ -23,4 +23,3 @@ if 'u' in my_string:
 
 if ' ' in my_string:
     print("Isso é uma frase")
-
